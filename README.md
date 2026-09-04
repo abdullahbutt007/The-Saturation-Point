@@ -2,8 +2,6 @@
 
 An interactive data project on the state of the UK tech job market in 2026: is it actually as saturated as it feels, or is that just noise? I pulled real labour-market data from ONS, Adzuna, CIPD, IT Jobs Watch, Layoffs.fyi, CV-Library and the UK Home Office, built the charts in Python/Plotly, and put it together as a single self-contained interactive dashboard.
 
-![Dashboard preview](assets/preview.png)
-
 ## What's in it
 
 - Vacancy trends and the graduate postings collapse
